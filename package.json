@@ -1,0 +1,26 @@
+{
+  "name": "callosum-client-tcp-rover",
+  "version": "0.1.0",
+  "description": "TCP client rover for Callosum: a self-balancing distributed services protocol",
+  "scripts": {
+    "test": "node scripts/test.js"
+  },
+  "main": "index.js",
+  "devDependencies": {
+    "nodeunit": "0.8.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tristanls/callosum-client-tcp-rover.git"
+  },
+  "keywords": [
+    "self-balancing",
+    "distributed",
+    "services",
+    "client",
+    "rover",
+    "tcp"
+  ],
+  "author": "Tristan Slominski <tristan.slominski@gmail.com>",
+  "license": "MIT"
+}
